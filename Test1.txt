@@ -1,7 +1,11 @@
-falsdf;
+alsdf;
 asdhf;lasdkf
 asd;lfjl;aksfd
 
 
+<<<<<<< HEAD
 nux
 22222222222222222
+=======
+df
+
